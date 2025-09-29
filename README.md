@@ -22,8 +22,8 @@
 ## 📊 Estadísticas  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CODEzENsual&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CODEzENsual&theme=radical&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 ## 🏆 Trofeos  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TuUsuario&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CODEzENsual&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1"/>
 </p>
 
 ---
